@@ -5,6 +5,10 @@ uses `googler` [1] and `gptextract` (`simparse`, `callgpt`) [2]
 [1] https://github.com/hversu/googler
 [2] https://github.com/hversu/gptextract
 
+## config
+
+update `my_secret.rs` with your API keys
+
 ## usage
 
 `cargo run <topic> <entities>`
