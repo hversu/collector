@@ -1,589 +1,333 @@
 {
-  "edges": [
-    {
-      "from": "Old Norse",
-      "to": "hversu",
-      "type": "originated"
-    },
-    {
-      "from": "hversu",
-      "to": "how",
-      "type": "translates to"
-    },
-    {
-      "from": "Icelandic",
-      "to": "Old Norse",
-      "type": "inherited from"
-    },
-    {
-      "from": "Icelandic",
-      "to": "Old Norse",
-      "type": "derived from"
-    },
-    {
-      "from": "Icelandic",
-      "to": "Dictionary of Modern Icelandic",
-      "type": "featured in"
-    },
-    {
-      "from": "Icelandic",
-      "to": "ISLEX",
-      "type": "featured in"
-    },
-    {
-      "from": "Old Norse",
-      "to": "Faroese",
-      "type": "related to"
-    },
-    {
-      "from": "Fornjót",
-      "to": "Nór",
-      "type": "descends"
-    },
-    {
-      "from": "Nór",
-      "to": "Harald Fairhair",
-      "type": "grandparent"
-    },
-    {
-      "from": "Harald Fairhair",
-      "to": "Olaf IV of Norway",
-      "type": "ancestor"
-    },
-    {
-      "enițiances": "grandparent",
-      "from": "Nór",
-      "to": "Halfdan the Old"
-    },
-    {
-      "from": "Halfdan the Old",
-      "to": "descendant lineages",
-      "type": "ancestor"
-    },
-    {
-      "from": "Old Norse text",
-      "to": "Hversu Noregr byggðist",
-      "type": "source of"
-    },
-    {
-      "from": "Orkneyinga saga",
-      "to": "Gór",
-      "type": "focus on"
-    },
-    {
-      "from": "Hversu account",
-      "to": "Orkneyinga saga",
-      "type": "paralled by"
-    },
-    {
-      "from": "Old Icelandic",
-      "to": "Iceland",
-      "type": "spoken and written in"
-    },
-    {
-      "from": "Old Icelandic",
-      "to": "Middle Ages",
-      "type": "spoken and written during"
-    },
-    {
-      "from": "Old Icelandic",
-      "to": "Viking Sagas",
-      "type": "language of"
-    },
-    {
-      "from": "Old Icelandic",
-      "to": "Old Norwegian",
-      "type": "closely related to"
-    },
-    {
-      "from": "Old Norse",
-      "to": "Scandinavia",
-      "type": "spoken in"
-    },
-    {
-      "from": "Old Norse",
-      "to": "how",
-      "type": "translated as"
-    },
-    {
-      "from": "Old Norse",
-      "to": "Old Icelandic",
-      "type": "related to"
-    },
-    {
-      "from": "Old Norse",
-      "to": "Old Norwegian",
-      "type": "related to"
-    },
-    {
-      "from": "Old Norse",
-      "to": "Old Swedish",
-      "type": "related to"
-    },
-    {
-      "from": "Old Norse",
-      "to": "Old Danish",
-      "type": "related to"
-    },
-    {
-      "from": "Fornjót",
-      "to": "Nór",
-      "type": "is ancestor of"
-    },
-    {
-      "from": "Nór",
-      "to": "Harald Fairhair",
-      "type": "is ancestor of"
-    },
-    {
-      "from": "Nór",
-      "to": "Gór",
-      "type": "is brother of"
-    },
-    {
-      "from": "Harald Fairhair",
-      "to": "Olaf IV of Norway",
-      "type": "is ancestor of"
-    },
-    {
-      "from": "Fornjót",
-      "to": "Gotland",
-      "type": "ruled"
-    },
-    {
-      "from": "Fornjót",
-      "to": "Kænland",
-      "type": "ruled"
-    },
-    {
-      "from": "Fornjót",
-      "to": "Finnland",
-      "type": "ruled"
-    },
-    {
-      "from": "Nór",
-      "to": "Norway",
-      "type": "founded"
-    },
-    {
-      "from": "Orkneyinga saga",
-      "to": "Gór",
-      "type": "details descendants of"
-    },
-    {
-      "from": "Flateyjarbók",
-      "to": "Hversu Noregr byggðist",
-      "type": "contains"
-    },
-    {
-      "from": "Hversu Noregr byggðist",
-      "to": "Old Norse",
-      "type": "is written in"
-    },
-    {
-      "from": "Hversu Noregr byggðist",
-      "to": "How Norway was inhabited",
-      "type": "is translated as"
-    },
-    {
-      "from": "Íslensk-ensk orðabók",
-      "to": "Icelandic-English Dictionary",
-      "type": "is translated to"
-    },
-    {
-      "from": "University of Wisconsin Digital Collections",
-      "to": "Fair Use",
-      "type": "falls within"
-    },
-    {
-      "from": "Your request",
-      "to": "network policy",
-      "type": "blocked due to"
-    },
-    {
-      "from": "User-Agent",
-      "to": "default",
-      "type": "changing back to"
-    },
-    {
-      "from": "User-Agent",
-      "to": "unique and descriptive",
-      "type": "is something"
-    },
-    {
-      "from": "you",
-      "to": "Reddit's Terms of Service",
-      "type": "read"
-    },
-    {
-      "from": "you",
-      "to": "ticket",
-      "type": "file"
-    },
-    {
-      "from": "Hversu Noregr byggðist",
-      "to": "How Norway was inhabited",
-      "type": "is translated as"
-    },
-    {
-      "from": "Hversu Noregr byggðist",
-      "to": "Norwegian",
-      "type": "is in"
-    },
-    {
-      "from": "Hvordan Norge ble bygd",
-      "to": "Norway",
-      "type": "describes"
-    },
-    {
-      "from": "Hversu Noregr byggðist",
-      "to": "Norway",
-      "type": "describes"
-    },
-    {
-      "from": "Как заселялась Норвегия",
-      "to": "Russia",
-      "type": "is in language of"
-    },
-    {
-      "from": "Hvordan Norge ble bygd",
-      "to": "Norwegian",
-      "type": "is in"
-    },
-    {
-      "from": "Как заселялась Норвегия",
-      "to": "Russian",
-      "type": "is in"
-    },
-    {
-      "from": "Sturlungaaldar",
-      "to": "20th century",
-      "type": "spanning"
-    },
-    {
-      "from": "little ice age",
-      "to": "Ísland",
-      "type": "located in"
-    },
-    {
-      "from": "Icelandic",
-      "to": "Ísland",
-      "type": "spoken in"
-    },
-    {
-      "from": "20th century",
-      "to": "21st century",
-      "type": "followed by"
-    }
-  ],
-  "nodes": [
-    {
-      "type": "language",
-      "value": "Icelandic"
-    },
-    {
-      "type": "language",
-      "value": "Old Norse"
-    },
-    {
-      "type": "language",
-      "value": "Faroese"
-    },
-    {
-      "type": "usage",
-      "value": "hversu"
-    },
-    {
-      "type": "english_translation",
-      "value": "how"
-    },
-    {
-      "type": "country",
-      "value": "Iceland"
-    },
-    {
-      "type": "culture",
-      "value": "Dictionary of Modern Icelandic"
-    },
-    {
-      "type": "culture",
-      "value": "ISLEX"
-    },
-    {
-      "type": "language",
-      "value": "Nordic languages"
-    },
-    {
-      "type": "language",
-      "value": "Old Norse"
-    },
-    {
-      "type": "country",
-      "value": "Norway"
-    },
-    {
-      "type": "culture",
-      "value": "Gotland"
-    },
-    {
-      "type": "culture",
-      "value": "Kænland"
-    },
-    {
-      "type": "culture",
-      "value": "Finnland"
-    },
-    {
-      "type": "culture",
-      "value": "Nór"
-    },
-    {
-      "type": "culture",
-      "value": "Orkneyinga saga"
-    },
-    {
-      "type": "culture",
-      "value": "Fundinn Noregr"
-    },
-    {
-      "type": "culture",
-      "value": "Flateyjarbók"
-    },
-    {
-      "type": "culture",
-      "value": "Ættartölur"
-    },
-    {
-      "type": "language",
-      "value": "Danish"
-    },
-    {
-      "type": "culture",
-      "value": "Skjöldung"
-    },
-    {
-      "type": "culture",
-      "value": "Yngling"
-    },
-    {
-      "type": "culture",
-      "value": "Olaf IV of Norway"
-    },
-    {
-      "type": "culture",
-      "value": "Margaret"
-    },
-    {
-      "type": "language",
-      "value": "Old Icelandic"
-    },
-    {
-      "type": "language",
-      "value": "Old Norwegian"
-    },
-    {
-      "type": "language",
-      "value": "Old Norse"
-    },
-    {
-      "type": "language",
-      "value": "Old Swedish"
-    },
-    {
-      "type": "language",
-      "value": "Old Danish"
-    },
-    {
-      "type": "english_translation",
-      "value": "how"
-    },
-    {
-      "type": "era",
-      "value": "Middle Ages"
-    },
-    {
-      "type": "culture",
-      "value": "Viking Sagas"
-    },
-    {
-      "type": "country",
-      "value": "Iceland"
-    },
-    {
-      "type": "country",
-      "value": "Scandinavia"
-    },
-    {
-      "type": "country",
-      "value": "Gotland"
-    },
-    {
-      "type": "country",
-      "value": "Kænland"
-    },
-    {
-      "type": "country",
-      "value": "Finnland"
-    },
-    {
-      "type": "country",
-      "value": "Norway"
-    },
-    {
-      "type": "language",
-      "value": "Old Norse"
-    },
-    {
-      "type": "english_translation",
-      "value": "How Norway was inhabited"
-    },
-    {
-      "type": "culture",
-      "value": "Nór"
-    },
-    {
-      "type": "culture",
-      "value": "Ættartölur"
-    },
-    {
-      "type": "culture",
-      "value": "Orkneyinga saga"
-    },
-    {
-      "type": "culture",
-      "value": "Fundinn Noregr"
-    },
-    {
-      "type": "culture",
-      "value": "Flateyjarbók"
-    },
-    {
-      "type": "culture",
-      "value": "Fornjót"
-    },
-    {
-      "type": "culture",
-      "value": "Gór"
-    },
-    {
-      "type": "culture",
-      "value": "Halfdan the Old"
-    },
-    {
-      "type": "culture",
-      "value": "Harald Fairhair"
-    },
-    {
-      "type": "culture",
-      "value": "Olaf IV of Norway"
-    },
-    {
-      "type": "culture",
-      "value": "Margaret"
-    },
-    {
-      "type": "usage",
-      "value": "Íslensk-ensk orðabók"
-    },
-    {
-      "type": "english_translation",
-      "value": "Icelandic-English Dictionary"
-    },
-    {
-      "type": "usage",
-      "value": "University of Wisconsin Digital Collections"
-    },
-    {
-      "type": "usage",
-      "value": "University of Wisconsin System"
-    },
-    {
-      "type": "usage",
-      "value": "network policy"
-    },
-    {
-      "type": "usage",
-      "value": "User-Agent"
-    },
-    {
-      "type": "culture",
-      "value": "Reddit"
-    },
-    {
-      "type": "country",
-      "value": "Norway"
-    },
-    {
-      "type": "language",
-      "value": "Norwegian"
-    },
-    {
-      "type": "language",
-      "value": "Danish"
-    },
-    {
-      "type": "language",
-      "value": "English"
-    },
-    {
-      "type": "language",
-      "value": "Spanish"
-    },
-    {
-      "type": "language",
-      "value": "Finnish"
-    },
-    {
-      "type": "language",
-      "value": "French"
-    },
-    {
-      "type": "language",
-      "value": "Italian"
-    },
-    {
-      "type": "language",
-      "value": "Russian"
-    },
-    {
-      "type": "english_translation",
-      "value": "How Norway was inhabited"
-    },
-    {
-      "type": "usage",
-      "value": "Hversu Noregr byggðist"
-    },
-    {
-      "type": "usage",
-      "value": "Hvordan Norge ble bygd"
-    },
-    {
-      "type": "usage",
-      "value": "Как заселялась Норвегия"
-    },
-    {
-      "type": "country",
-      "value": "Ísland"
-    },
-    {
-      "type": "language",
-      "value": "Icelandic"
-    },
-    {
-      "type": "era",
-      "value": "little ice age"
-    },
-    {
-      "type": "era",
-      "value": "Sturlungaaldar"
-    },
-    {
-      "type": "era",
-      "value": "20th century"
-    },
-    {
-      "type": "era",
-      "value": "21st century"
-    }
-  ]
+    "edges": [
+        {
+            "from": "hversu",
+            "to": "Old Norse",
+            "type": "derived from"
+        },
+        {
+            "from": "hversu",
+            "to": "Faroese",
+            "type": "cognate with"
+        },
+        {
+            "from": "hversu",
+            "to": "how",
+            "type": "means"
+        },
+        {
+            "from": "hversu",
+            "to": "Icelandic",
+            "todo": "in"
+        },
+        {
+            "from": "Hversu Noregr byggðist",
+            "to": "Norway",
+            "type": "describes the origin of"
+        },
+        {
+            "from": "Hversu Noregr byggðist",
+            "to": "Old Norse",
+            "type": "is written in"
+        },
+        {
+            "from": "Nór",
+            "to": "Norway",
+            "type": "is the first great king of"
+        },
+        {
+            "from": "Harald Fairhair",
+            "to": "Norway",
+            "type": "is the first king of all"
+        },
+        {
+            "from": "Nór",
+            "to": "Gotland",
+            "type": "is a descendant of king of"
+        },
+        {
+            "from": "Nór",
+            "to": "Kænland",
+            "type": "is a descendant of king of"
+        },
+        {
+            "from": "Nór",
+            "to": "Finnland",
+            "type": "is a descendant of king of"
+        },
+        {
+            "from": "Olaf IV",
+            "to": "Harald Fairhair",
+            "type": "is a descendant of"
+        },
+        {
+            "from": "Margaret",
+            "to": "Norway",
+            "type": "was direct ruler of"
+        },
+        {
+            "from": "Hversu Noregr byggðist",
+            "to": "Orkneyinga saga",
+            "type": "is paralleled by"
+        },
+        {
+            "from": "Orkneyinga saga",
+            "to": "English",
+            "type": "translated by"
+        },
+        {
+            "from": "Dansk",
+            "to": "Danish",
+            "type": "is"
+        },
+        {
+            "from": "Español",
+            "to": "Spanish",
+            "type": "is"
+        },
+        {
+            "from": "Français",
+            "to": "French",
+            "type": "is written in"
+        },
+        {
+            "from": "Italiano",
+            "to": "Italian",
+            "type": "is written in"
+        },
+        {
+            "from": "Old Icelandic",
+            "to": "Old West Norse",
+            "type": "is a branch of"
+        },
+        {
+            "from": "Old Icelandic",
+            "to": "Iceland",
+            "type": "spoken in"
+        },
+        {
+            "from": "Old Icelandic",
+            "to": "Old Norwegian",
+            "type": "is close to"
+        },
+        {
+            "from": "Old Icelandic",
+            "to": "Viking Sagas",
+            "type": "is the language of"
+        },
+        {
+            "from": "Old Norse",
+            "to": "Scandinavia",
+            "type": "spoken by inhabitants of"
+        },
+        {
+            "from": "Old Norse",
+            "to": "7th to the 15th centuries",
+            "type": "spoken from"
+        },
+        {
+            "from": "Geir Zoëga",
+            "to": "A Concise Dictionary of Old Icelandic",
+            "type": "authored"
+        },
+        {
+            "from": "Geir Zoëga",
+            "to": "Cleasby & Vigfusson Dictionary",
+            "type": "created an easier version of"
+        },
+        {
+            "from": "Fornjót",
+            "to": "Gotland",
+            "type": "is king of"
+        },
+        {
+            "from": "Fornjót",
+            "to": "Kænland",
+            "type": "is king of"
+        },
+        {
+            "from": "Fornjót",
+            "to": "Finnland",
+            "type": "is king of"
+        },
+        {
+            "from": "Nór",
+            "to": "Ættartölur",
+            "type": "is detailed in"
+        },
+        {
+            "from": "Gór",
+            "to": "Ættartölur",
+            "type": "is detailed in"
+        },
+        {
+            "from": "Hversu Noregr byggðist",
+            "to": "Fundinn Noregr",
+            "type": "is equivalent to"
+        },
+        {
+            "from": "Hversu Noregr byggðist",
+            "to": "Norway",
+            "type": "inhabited"
+        },
+        {
+            "from": "Hversu Noregr byggðist",
+            "to": "legendary Norwegian lineages",
+            "type": "describes"
+        },
+        {
+            "from": "Hversu Noregr byggðist",
+            "to": "fiwiki",
+            "type": "listed in"
+        },
+        {
+            "from": "Íslensk-ensk orðabók",
+            "to": "Sverrir Hólmarsson",
+            "type": "contributed by"
+        },
+        {
+            "from": "research data",
+            "to": "Dictionary of Old Norse Prose",
+            "type": "derive from"
+        },
+        {
+            "from": "research data",
+            "to": "Arnamagnæan Institutes",
+            "type": "derive from"
+        }
+    ],
+    "nodes": [
+        {
+            "type": "language",
+            "value": "Old Norse"
+        },
+        {
+            "type": "language",
+            "value": "Faroese"
+        },
+        {
+            "type": "word",
+            "value": "hversu"
+        },
+        {
+            "type": "language",
+            "value": "Icelandic"
+        },
+        {
+            "type": "word",
+            "value": "Hversu Noregr byggðist"
+        },
+        {
+            "type": "region",
+            "value": "Norway"
+        },
+        {
+            "type": "word",
+            "value": "Orkneyinga saga"
+        },
+        {
+            "type": "word",
+            "value": "Nór"
+        },
+        {
+            "type": "region",
+            "value": "Gotland"
+        },
+        {
+            "type": "region",
+            "value": "Kænland"
+        },
+        {
+            "type": "region",
+            "value": "Finnland"
+        },
+        {
+            "type": "word",
+            "value": "Harald Fairhair"
+        },
+        {
+            "type": "language",
+            "value": "English"
+        },
+        {
+            "type": "language",
+            "value": "Danish"
+        },
+        {
+            "value": "Spanish",
+            "var_type": "language"
+        },
+        {
+            "type": "language",
+            "value": "French"
+        },
+        {
+            "type": "language",
+            "value": "Italiano"
+        },
+        {
+            "type": "language",
+            "value": "Old Icelandic"
+        },
+        {
+            "type": "language",
+            "value": "Old Norwegian"
+        },
+        {
+            "type": "language",
+            "value": "Old West Norse"
+        },
+        {
+            "value": "Iceland",
+            "var_type": "region"
+        },
+        {
+            "type": "word",
+            "value": "Viking Sagas"
+        },
+        {
+            "type": "region",
+            "value": "Scandinavia"
+        },
+        {
+            "value": "Geir Zoëga",
+            "var_type": "word"
+        },
+        {
+            "value": "Cleasby & Vigfusson Dictionary",
+            "var_type": "word"
+        },
+        {
+            "value": "Fornjót",
+            "var_type": "word"
+        },
+        {
+            "type": "word",
+            "value": "Ættartölur"
+        },
+        {
+            "type": "word",
+            "value": "Fundinn Noregr"
+        },
+        {
+            "type": "word",
+            "value": "legendary Norwegian lineages"
+        },
+        {
+            "type": "language",
+            "value": "fiwiki"
+        },
+        {
+            "value": "Sverrir Hólmarsson",
+            "var_type": "word"
+        },
+        {
+            "type": "word",
+            "value": "Dictionary of Old Norse Prose"
+        },
+        {
+            "type": "region",
+            "value": "Arnamagnæan Institutes"
+        }
+    ]
 }

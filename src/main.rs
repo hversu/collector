@@ -7,6 +7,9 @@ use std::io::prelude::*;
 use anyhow::Result;
 use tokio;
 
+use crate::gptcall::call_openai_chat;
+use crate::my_secret::OPENAI_KEY;
+
 mod googler;
 mod simparse;
 mod gptcall;
@@ -37,7 +40,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     
     let json_value: Value = serde_json::from_str(&json_string)?;
     let links = json_value["links"].as_array().unwrap();
-    let content = json_value["content"].as_str();
+    // let content = json_value["content"].as_str();
     
     // // Step 2: Consistency Check
     // let consistency_check_prompt = format!("Check consistency: {:#?}", content);
@@ -49,7 +52,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     
     // Step 3: Google Deep
     // let mut all_extracted_data: Vec<_> = vec![];
-    let mut all_extracted_data: Vec<serde_json::Value> = vec![];
+    // let mut all_extracted_data: Vec<serde_json::Value> = vec![];
     
     let tags = vec!["h1", "h2", "h3", "h4", "p", "article", "td", "ul", "li", "lo"];
     let proxy_url: Option<&str> = None;
@@ -135,13 +138,26 @@ async fn main() -> Result<(), Box<dyn Error>> {
     //     }
     // }
 
+    let constructed_prompt = format!(
+        "clean up this node/edge set so that there are no duplicates and the naming conventions are standardized, 
+        remember the user's original query was '{}'. Return a JSON with the same structure as the input JSON below, 
+        but with cleaned up and standardized node and edge values - node keys should be 'type' and 'value', edge keys should be 'to', 'from', 'type': \n\n{}",
+        &query,
+        aggregated_results
+    );
+
+    let response = call_openai_chat("you are a data hygiene bot that takes a JSON structure and returns a JSON structure, reducing redundant node/edge names/types without losing information.", &constructed_prompt, OPENAI_KEY).await?;
     
+     // Parse the JSON string into a serde_json::Value
+    let v: Value = serde_json::from_str(&response)?;
+    
+     // Serialize the Value back to a JSON string
+    let results_json = serde_json::to_string(&v)?;
     // Step 4: Saving
     // Define the file path
     let file_path = "data/results.json";
-    
     // Serialize all extracted data to JSON
-    let results_json = serde_json::to_string_pretty(&aggregated_results)?;
+    
     
     // Write the JSON string to the file
     let mut file = File::create(file_path)?;
