@@ -10,6 +10,8 @@ uses `googler` [1] and `gptextract` (`simparse`, `callgpt`) [2]
 ## config
 
 update `my_secret.rs` with your API keys
+- serpAPI is free (instruction in `my_secret.rs`)
+- OpenAI API key required
 
 ## usage
 
