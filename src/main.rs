@@ -140,13 +140,15 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let constructed_prompt = format!(
         "clean up this node/edge set so that there are no duplicates and the naming conventions are standardized, 
-        remember the user's original query was '{}'. Return a JSON with the same structure as the input JSON below, 
-        but with cleaned up and standardized node and edge values - node keys should be 'type' and 'value', edge keys should be 'to', 'from', 'type': \n\n{}",
+        The user's original search query was '{}' and these nodes and edges represent the data returned. 
+         \n\n{}",
         &query,
         aggregated_results
     );
 
-    let response = call_openai_chat("you are a data hygiene bot that takes a JSON structure and returns a JSON structure, reducing redundant node/edge names/types without losing information.", &constructed_prompt, OPENAI_KEY).await?;
+    let response = call_openai_chat("you are a data hygiene bot that takes a JSON structure and returns a JSON structure, 
+                                        reducing redundant node/edge names/types WITHOUT losing information.", 
+                                        &constructed_prompt, OPENAI_KEY).await?;
     
      // Parse the JSON string into a serde_json::Value
     let v: Value = serde_json::from_str(&response)?;

@@ -1,333 +1,274 @@
 {
     "edges": [
         {
-            "from": "hversu",
-            "to": "Old Norse",
-            "type": "derived from"
+            "from": "GootLoader",
+            "to": "Windows",
+            "type": "targets"
         },
         {
-            "from": "hversu",
-            "to": "Faroese",
-            "type": "cognate with"
+            "from": "GootLoader",
+            "to": "GootKit",
+            "type": "deploys"
         },
         {
-            "from": "hversu",
-            "to": "how",
-            "type": "means"
+            "from": "GootLoader",
+            "to": "Cobalt Strike",
+            "type": "deploys"
         },
         {
-            "from": "hversu",
-            "to": "Icelandic",
-            "todo": "in"
+            "from": "GootLoader",
+            "to": "REvil ransomware",
+            "type": "deploys"
         },
         {
-            "from": "Hversu Noregr byggðist",
-            "to": "Norway",
-            "type": "describes the origin of"
+            "from": "GootLoader",
+            "to": "SEO poisoning",
+            "type": "uses"
         },
         {
-            "from": "Hversu Noregr byggðist",
-            "to": "Old Norse",
-            "type": "is written in"
+            "from": "GootLoader",
+            "to": "Kronos malware",
+            "type": "downloads"
         },
         {
-            "from": "Nór",
-            "to": "Norway",
-            "type": "is the first great king of"
+            "from": "GootLoader",
+            "to": "ZIP archive",
+            "type": "delivered via"
         },
         {
-            "from": "Harald Fairhair",
-            "to": "Norway",
-            "type": "is the first king of all"
+            "from": "GootLoader",
+            "to": "PowerShell",
+            "type": "executes via"
         },
         {
-            "from": "Nór",
-            "to": "Gotland",
-            "type": "is a descendant of king of"
+            "from": "GootLoader",
+            "to": "JScript",
+            "type": "executes via"
         },
         {
-            "from": "Nór",
-            "to": "Kænland",
-            "type": "is a descendant of king of"
+            "from": "GootLoader",
+            "to": "Osiris",
+            "type": "may lead to"
         },
         {
-            "from": "Nór",
-            "to": "Finnland",
-            "type": "is a descendant of king of"
+            "from": "GootLoader",
+            "to": "Sodinokibi ransomware",
+            "type": "may lead to"
         },
         {
-            "from": "Olaf IV",
-            "to": "Harald Fairhair",
-            "type": "is a descendant of"
+            "from": "GootLoader",
+            "to": "WordPress",
+            "type": "targets"
         },
         {
-            "from": "Margaret",
-            "to": "Norway",
-            "type": "was direct ruler of"
+            "from": "GootLoader",
+            "to": "SystemBC",
+            "type": "deploys"
         },
         {
-            "from": "Hversu Noregr byggðist",
-            "to": "Orkneyinga saga",
-            "type": "is paralleled by"
+            "from": "SEO Poisoning",
+            "to": "WordPress",
+            "type": "exploits"
         },
         {
-            "from": "Orkneyinga saga",
-            "to": "English",
-            "type": "translated by"
+            "from": "UNC2565",
+            "to": "GootLoader",
+            "type": "uses"
         },
         {
-            "from": "Dansk",
-            "to": "Danish",
-            "type": "is"
+            "from": "UNC2565",
+            "to": "FONELAUNCH",
+            "type": "uses"
         },
         {
-            "from": "Español",
-            "to": "Spanish",
-            "type": "is"
+            "from": "UNC2565",
+            "to": "GootLoader.POWERSHELL",
+            "type": "develops"
         },
         {
-            "from": "Français",
-            "to": "French",
-            "type": "is written in"
+            "from": "GootLoader",
+            "to": "compromised hosts",
+            "type": "delivers payloads to"
         },
         {
-            "from": "Italiano",
-            "to": "Italian",
-            "type": "is written in"
+            "from": "GootLoader",
+            "to": "GootLoader 3",
+            "type": "updated to"
         },
         {
-            "from": "Old Icelandic",
-            "to": "Old West Norse",
-            "type": "is a branch of"
+            "from": "GootLoader",
+            "to": "Hive0127",
+            "type": "linked to"
         },
         {
-            "from": "Old Icelandic",
-            "to": "Iceland",
-            "type": "spoken in"
+            "from": "GootLoader",
+            "to": "Cobalt Strike",
+            "type": "delivers"
         },
         {
-            "from": "Old Icelandic",
-            "to": "Old Norwegian",
-            "type": "is close to"
+            "from": "GootLoader",
+            "to": "IcedID",
+            "type": "delivers"
         },
         {
-            "from": "Old Icelandic",
-            "to": "Viking Sagas",
-            "type": "is the language of"
+            "from": "GootLoader",
+            "to": "UNC2565",
+            "type": "operated by"
         },
         {
-            "from": "Old Norse",
-            "to": "Scandinavia",
-            "type": "spoken by inhabitants of"
+            "from": "Hive0127",
+            "to": "UNC2565",
+            "type": "also known as"
         },
         {
-            "from": "Old Norse",
-            "to": "7th to the 15th centuries",
-            "type": "spoken from"
+            "from": "GootLoader",
+            "to": "transfer[.]sh/get/7i8rkw/Rufus_Pro_signed.exe",
+            "type": "linked to"
         },
         {
-            "from": "Geir Zoëga",
-            "to": "A Concise Dictionary of Old Icelandic",
-            "type": "authored"
+            "from": "transfer[.]sh/get/7i8rkw/Rufus_Pro_signed.exe",
+            "to": "Lumma Stealer",
+            "type": "hosts"
         },
         {
-            "from": "Geir Zoëga",
-            "to": "Cleasby & Vigfusson Dictionary",
-            "type": "created an easier version of"
+            "from": "Lumma Stealer",
+            "to": "ruflus[.]xyz",
+            "type": "distributed via"
         },
         {
-            "from": "Fornjót",
-            "to": "Gotland",
-            "type": "is king of"
+            "from": "\\AppData folder",
+            "to": "GootLoader",
+            "type": "witness"
         },
         {
-            "from": "Fornjót",
-            "to": "Kænland",
-            "type": "is king of"
+            "from": "46.28.105.94",
+            "to": "Cobalt Strike",
+            "type": "request"
         },
         {
-            "from": "Fornjót",
-            "to": "Finnland",
-            "type": "is king of"
+            "from": "hxxp://blog.lilianpraskova.cz/xmlrpc.php",
+            "to": "GootLoader",
+            "type": "hosted"
         },
         {
-            "from": "Nór",
-            "to": "Ættartölur",
-            "type": "is detailed in"
+            "from": "91.215.85.143:443",
+            "to": "Cobalt Strike",
+            "type": "communicated"
         },
         {
-            "from": "Gór",
-            "to": "Ættartölur",
-            "type": "is detailed in"
-        },
-        {
-            "from": "Hversu Noregr byggðist",
-            "to": "Fundinn Noregr",
-            "type": "is equivalent to"
-        },
-        {
-            "from": "Hversu Noregr byggðist",
-            "to": "Norway",
-            "type": "inhabited"
-        },
-        {
-            "from": "Hversu Noregr byggðist",
-            "to": "legendary Norwegian lineages",
-            "type": "describes"
-        },
-        {
-            "from": "Hversu Noregr byggðist",
-            "to": "fiwiki",
-            "type": "listed in"
-        },
-        {
-            "from": "Íslensk-ensk orðabók",
-            "to": "Sverrir Hólmarsson",
-            "type": "contributed by"
-        },
-        {
-            "from": "research data",
-            "to": "Dictionary of Old Norse Prose",
-            "type": "derive from"
-        },
-        {
-            "from": "research data",
-            "to": "Arnamagnæan Institutes",
-            "type": "derive from"
+            "from": "91.92.136.20:4001",
+            "to": "SystemBC",
+            "type": "communicated"
         }
     ],
     "nodes": [
         {
-            "type": "language",
-            "value": "Old Norse"
+            "type": "malware",
+            "value": "GootLoader"
         },
         {
-            "type": "language",
-            "value": "Faroese"
+            "type": "affected_software",
+            "value": "Windows"
         },
         {
-            "type": "word",
-            "value": "hversu"
+            "type": "malware",
+            "value": "GootKit"
         },
         {
-            "type": "language",
-            "value": "Icelandic"
+            "type": "tool",
+            "value": "Cobalt Strike"
         },
         {
-            "type": "word",
-            "value": "Hversu Noregr byggðist"
+            "type": "malware",
+            "value": "REvil ransomware"
         },
         {
-            "type": "region",
-            "value": "Norway"
+            "type": "tool",
+            "value": "SEO poisoning"
         },
         {
-            "type": "word",
-            "value": "Orkneyinga saga"
+            "type": "malware",
+            "value": "Kronos malware"
         },
         {
-            "type": "word",
-            "value": "Nór"
+            "type": "tool",
+            "value": "ZIP archive"
         },
         {
-            "type": "region",
-            "value": "Gotland"
+            "type": "tool",
+            "value": "PowerShell"
         },
         {
-            "type": "region",
-            "value": "Kænland"
+            "type": "tool",
+            "value": "JScript"
         },
         {
-            "type": "region",
-            "value": "Finnland"
+            "type": "malware",
+            "value": "Osiris"
         },
         {
-            "type": "word",
-            "value": "Harald Fairhair"
+            "type": "malware",
+            "value": "Sodinokibi ransomware"
         },
         {
-            "type": "language",
-            "value": "English"
+            "type": "affected_software",
+            "value": "WordPress"
         },
         {
-            "type": "language",
-            "value": "Danish"
+            "type": "tool",
+            "value": "SystemBC"
         },
         {
-            "value": "Spanish",
-            "var_type": "language"
+            "type": "threat_actor",
+            "value": "UNC2565"
         },
         {
-            "type": "language",
-            "value": "French"
+            "type": "tool",
+            "value": "FONELAUNCH"
         },
         {
-            "type": "language",
-            "value": "Italiano"
+            "type": "tool",
+            "value": "GootLoader.POWERSHELL"
         },
         {
-            "type": "language",
-            "value": "Old Icelandic"
+            "type": "malware",
+            "value": "GootLoader 3"
         },
         {
-            "type": "language",
-            "value": "Old Norwegian"
+            "type": "threat_actor",
+            "value": "Hive0127"
         },
         {
-            "type": "language",
-            "value": "Old West Norse"
+            "type": "malware",
+            "value": "IcedID"
         },
         {
-            "value": "Iceland",
-            "var_type": "region"
+            "type": "tool",
+            "value": "Lumma Stealer"
         },
         {
-            "type": "word",
-            "value": "Viking Sagas"
+            "type": "domain",
+            "value": "ruflus[.]xyz"
         },
         {
-            "type": "region",
-            "value": "Scandinavia"
+            "type": "domain",
+            "value": "hxxp://blog.lilianpraskova.cz/xmlrpc.php"
         },
         {
-            "value": "Geir Zoëga",
-            "var_type": "word"
+            "type": "tool",
+            "value": "transfer[.]sh/get/7i8rkw/Rufus_Pro_signed.exe"
         },
         {
-            "value": "Cleasby & Vigfusson Dictionary",
-            "var_type": "word"
+            "type": "ip",
+            "value": "46.28.105.94"
         },
         {
-            "value": "Fornjót",
-            "var_type": "word"
+            "type": "ip",
+            "value": "91.215.85.143:443"
         },
         {
-            "type": "word",
-            "value": "Ættartölur"
-        },
-        {
-            "type": "word",
-            "value": "Fundinn Noregr"
-        },
-        {
-            "type": "word",
-            "value": "legendary Norwegian lineages"
-        },
-        {
-            "type": "language",
-            "value": "fiwiki"
-        },
-        {
-            "value": "Sverrir Hólmarsson",
-            "var_type": "word"
-        },
-        {
-            "type": "word",
-            "value": "Dictionary of Old Norse Prose"
-        },
-        {
-            "type": "region",
-            "value": "Arnamagnæan Institutes"
+            "type": "ip",
+            "value": "91.92.136.20:4001"
         }
     ]
 }
