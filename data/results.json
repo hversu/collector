@@ -1,274 +1,283 @@
 {
     "edges": [
         {
-            "from": "GootLoader",
-            "to": "Windows",
-            "type": "targets"
+            "from": "hversu",
+            "to": "Old Norse",
+            "type": "derived from"
         },
         {
-            "from": "GootLoader",
-            "to": "GootKit",
-            "type": "deploys"
+            "from": "Old Norse",
+            "to": "Faroese hvussu",
+            "type": "related to"
         },
         {
-            "from": "GootLoader",
-            "to": "Cobalt Strike",
-            "type": "deploys"
+            "from": "hversu",
+            "to": "how",
+            "type": "means"
         },
         {
-            "from": "GootLoader",
-            "to": "REvil ransomware",
-            "type": "deploys"
+            "from": "how",
+            "to": "to what degree",
+            "type": "clarifies"
         },
         {
-            "from": "GootLoader",
-            "to": "SEO poisoning",
-            "type": "uses"
+            "from": "hversu",
+            "to": "Dictionary of Modern Icelandic",
+            "type": "featured in"
         },
         {
-            "from": "GootLoader",
-            "to": "Kronos malware",
-            "type": "downloads"
+            "from": "hversu",
+            "to": "ISLEX",
+            "type": "featured in"
         },
         {
-            "from": "GootLoader",
-            "to": "ZIP archive",
-            "type": "delivered via"
+            "from": "Icelandic",
+            "to": "Old Norse",
+            "type": "derived from"
         },
         {
-            "from": "GootLoader",
-            "to": "PowerShell",
-            "type": "executes via"
+            "from": "Icelandic",
+            "to": "lemmas",
+            "type": "classified as"
         },
         {
-            "from": "GootLoader",
-            "to": "JScript",
-            "type": "executes via"
+            "from": "Icelandic",
+            "to": "adverbs",
+            "type": "classified to"
         },
         {
-            "from": "GootLoader",
-            "to": "Osiris",
-            "type": "may lead to"
+            "from": "Hversu Noregr byggðist",
+            "to": "Old Norse: How Norway was inhabited",
+            "type": "is translated as"
         },
         {
-            "from": "GootLoader",
-            "to": "Sodinokibi ransomware",
-            "type": "may lead to"
+            "from": "Harald Fairhair",
+            "to": "Norway",
+            "type": "unites"
         },
         {
-            "from": "GootLoader",
-            "to": "WordPress",
-            "type": "targets"
+            "from": "Fornjót",
+            "to": "Nór",
+            "type": "descended to"
         },
         {
-            "from": "GootLoader",
-            "to": "SystemBC",
-            "type": "deploys"
+            "from": "Nór",
+            "to": "Norway",
+            "type": "is the first great king of"
         },
         {
-            "from": "SEO Poisoning",
-            "to": "WordPress",
-            "type": "exploits"
+            "from": "Hversu Noregr byggðist",
+            "to": "Flateyjarbók",
+            "type": "survives in"
         },
         {
-            "from": "UNC2565",
-            "to": "GootLoader",
-            "type": "uses"
+            "from": "Hversu Noregr byggðist",
+            "to": "Old Norse",
+            "type": "is written in"
         },
         {
-            "from": "UNC2565",
-            "to": "FONELAUNCH",
-            "type": "uses"
+            "from": "Old Norse",
+            "to": "Cleasby & Vigfusson Dictionary",
+            "type": "defined in"
         },
         {
-            "from": "UNC2565",
-            "to": "GootLoader.POWERSHELL",
-            "type": "develops"
+            "from": "Old Norwegian",
+            "to": "Johan Fritzner's Dictionary",
+            "type": "defined in"
         },
         {
-            "from": "GootLoader",
-            "to": "compromised hosts",
-            "type": "delivers payloads to"
+            "from": "adv",
+            "to": "adverb",
+            "type": "stands for"
         },
         {
-            "from": "GootLoader",
-            "to": "GootLoader 3",
-            "type": "updated to"
+            "from": "Geir Zoëga",
+            "to": "A Concise Dictionary of Old Icelandic",
+            "type": "authored"
         },
         {
-            "from": "GootLoader",
-            "to": "Hive0127",
-            "type": "linked to"
+            "from": "Hversu Noregr byggðist",
+            "to": "Orkneyinga saga",
+            "type": "parallels"
         },
         {
-            "from": "GootLoader",
-            "to": "Cobalt Strike",
-            "type": "delivers"
+            "from": "Halfdan the Old",
+            "to": "Harald Fairhair",
+            "type": "ancestor of"
         },
         {
-            "from": "GootLoader",
-            "to": "IcedID",
-            "type": "delivers"
+            "from": "Olaf IV of Norway",
+            "to": "Margaret",
+            "type": "son of"
         },
         {
-            "from": "GootLoader",
-            "to": "UNC2565",
-            "type": "operated by"
+            "from": "Ættartölur",
+            "to": "1387",
+            "type": "written in"
         },
         {
-            "from": "Hive0127",
-            "to": "UNC2565",
-            "type": "also known as"
+            "from": "Data",
+            "to": "Dictionary of Old Norse Prose",
+            "type": "derive from"
         },
         {
-            "from": "GootLoader",
-            "to": "transfer[.]sh/get/7i8rkw/Rufus_Pro_signed.exe",
-            "type": "linked to"
+            "from": "Data",
+            "to": "National Library of Iceland",
+            "type": "derive from"
         },
         {
-            "from": "transfer[.]sh/get/7i8rkw/Rufus_Pro_signed.exe",
-            "to": "Lumma Stealer",
-            "type": "hosts"
+            "from": "Data",
+            "to": "Arnamagnæan Institutes",
+            "type": "derive from"
         },
         {
-            "from": "Lumma Stealer",
-            "to": "ruflus[.]xyz",
-            "type": "distributed via"
+            "from": "Data",
+            "to": "Skaldic Project",
+            "type": "derive from"
         },
         {
-            "from": "\\AppData folder",
-            "to": "GootLoader",
-            "type": "witness"
+            "from": "Data",
+            "to": "Stories for All Time",
+            "type": "derive from"
         },
         {
-            "from": "46.28.105.94",
-            "to": "Cobalt Strike",
-            "type": "request"
-        },
-        {
-            "from": "hxxp://blog.lilianpraskova.cz/xmlrpc.php",
-            "to": "GootLoader",
-            "type": "hosted"
-        },
-        {
-            "from": "91.215.85.143:443",
-            "to": "Cobalt Strike",
-            "type": "communicated"
-        },
-        {
-            "from": "91.92.136.20:4001",
-            "to": "SystemBC",
-            "type": "communicated"
+            "from": "Content",
+            "to": "skaldic volumes",
+            "type": "licensed according to"
         }
     ],
     "nodes": [
         {
-            "type": "malware",
-            "value": "GootLoader"
+            "type": "word",
+            "value": "hversu"
         },
         {
-            "type": "affected_software",
-            "value": "Windows"
+            "type": "etymology",
+            "value": "Old Norse"
         },
         {
-            "type": "malware",
-            "value": "GootKit"
+            "type": "cognate",
+            "value": "Faroese hvussu"
         },
         {
-            "type": "tool",
-            "value": "Cobalt Strike"
+            "type": "definition",
+            "value": "how"
         },
         {
-            "type": "malware",
-            "value": "REvil ransomware"
+            "type": "definition",
+            "value": "to what from"
         },
         {
-            "type": "tool",
-            "value": "SEO poisoning"
+            "type": "further reading",
+            "value": "Dictionary of Modern Icelandic"
         },
         {
-            "type": "malware",
-            "value": "Kronos malware"
+            "type": "further reading",
+            "value": "ISLEX"
         },
         {
-            "type": "tool",
-            "value": "ZIP archive"
+            "type": "region",
+            "value": "Iceland"
         },
         {
-            "type": "tool",
-            "value": "PowerShell"
+            "type": "definition",
+            "value": "lemmas"
         },
         {
-            "type": "tool",
-            "value": "JScript"
+            "type": "definition",
+            "value": "adverbs"
         },
         {
-            "type": "malware",
-            "value": "Osiris"
+            "type": "word",
+            "value": "Hversu Noregr byggðist"
         },
         {
-            "type": "malware",
-            "value": "Sodinokibi ransomware"
+            "type": "translation",
+            "value": "Old Norse: How Norway was inhabited"
         },
         {
-            "type": "affected_software",
-            "value": "WordPress"
+            "pagen-number": "1387",
+            "value": ""
         },
         {
-            "type": "tool",
-            "value": "SystemBC"
+            "type": "region",
+            "value": "Norway"
         },
         {
-            "type": "threat_actor",
-            "value": "UNC2565"
+            "type": "person",
+            "value": "Nór"
         },
         {
-            "type": "tool",
-            "value": "FONELAUNCH"
+            "type": "definition",
+            "value": "Old Norwegian"
         },
         {
-            "type": "tool",
-            "value": "GootLoader.POWERSHELL"
+            "type": "definition",
+            "value": "Cleasby & Vigfusson Dictionary"
         },
         {
-            "type": "malware",
-            "value": "GootLoader 3"
+            "type": "definition",
+            "value": "Johan Fritzner's Dictionary"
         },
         {
-            "type": "threat_actor",
-            "value": "Hive0127"
+            "type": "abbreviation",
+            "value": "adv"
         },
         {
-            "type": "malware",
-            "value": "IcedID"
+            "type": "definition",
+            "value": "adverb"
         },
         {
-            "type": "tool",
-            "value": "Lumma Stealer"
+            "type": "definition",
+            "value": "Flateyjarbók"
         },
         {
-            "type": "domain",
-            "value": "ruflus[.]xyz"
+            "type": "definition",
+            "value": "Orkneyinga saga"
         },
         {
-            "type": "domain",
-            "value": "hxxp://blog.lilianpraskova.cz/xmlrpc.php"
+            "type": "person",
+            "value": "Geir Zoëga"
         },
         {
-            "type": "tool",
-            "value": "transfer[.]sh/get/7i8rkw/Rufus_Pro_signed.exe"
+            "type": "person",
+            "value": "Halfdan the Old"
         },
         {
-            "type": "ip",
-            "value": "46.28.105.94"
+            "type": "person",
+            "value": "Harald Fairhair"
         },
         {
-            "type": "ip",
-            "value": "91.215.85.143:443"
+            "type": "person",
+            "value": "Olaf IV of Norway"
         },
         {
-            "type": "ip",
-            "value": "91.92.136.20:4001"
+            "type": "person",
+            "value": "Margaret"
+        },
+        {
+            "type": "region",
+            "value": "Iceland"
+        },
+        {
+            "type": "region",
+            "value": "Copenhagen"
+        },
+        {
+            "type": "word",
+            "value": "Data"
+        },
+        {
+            "type": "word",
+            "value": "Content"
+        },
+        {
+            "type": "word",
+            "value": "CC BY-SA 4.0"
+        },
+        {
+            "type": "dictionary",
+            "value": "Arnamagnæan Institutes"
         }
     ]
 }
